@@ -1,0 +1,15 @@
+1,TRUE,500.1,4999.9,engageRetro,10-11-12-13-14-22,stmt 11 TTT
+2,FALSE,500.1,4999.9,disengageRetro,10/21/2022,
+3,TRUE,150,2499.9,deployPods,10-11-16-17-18-19-22,stmt 16 TTT
+4,TRUE,500.1,2499.9,orbit,10-11-12-22,stmt 11 TFT
+5,TRUE,149.9,2499.9,orbit,10-11-16-22,stmt 16 FTT
+6,TRUE,500.1,5000,orbit,10-11-12-13-22,stmt 11 TTF
+7,TRUE,150,1000,orbit,10-11-16-17-22,stmt 16 TFT
+8,TRUE,150,2500,orbit,10-11-16-17-18-22,stmt 16 TTF
+9,TRUE,500,4999.9,orbit,-,stmt 11 FTT
+10,TRUE,500.1,2500,engageRetro,-,
+11,TRUE,150,1000.1,deployPods,-,
+12,TRUE,200,10000,orbit,extreme range altitude,
+13,TRUE,200,0,orbit,extreme range altitude,
+14,TRUE,1000,5000.1,orbit,extreme range speed,
+15,TRUE,0,5000.1,orbit,extreme range speed,
