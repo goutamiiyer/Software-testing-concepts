@@ -89,9 +89,9 @@ public class Problem2ClassTest {
 	
 	@Test
 	public void determineInsPremiumTest() {
-		problem2.determineInsPremium(premium, policyHolder, yearsMember, multiPolicies, safetyRating, taxRate);
 		problem2.setPrimeStatus(primeStatus);
 		problem2.setTotalPremium(totalPremium);
+		problem2.determineInsPremium(premium, policyHolder, yearsMember, multiPolicies, safetyRating, taxRate);
 		assertEquals(primeStatus, problem2.isPrimeStatus());
 		assertEquals(totalPremium, problem2.getTotalPremium(), 0.01);
 	}

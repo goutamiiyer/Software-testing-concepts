@@ -1,0 +1,16 @@
+1,1000.1,84.9,TRUE,FALSE,1,9/10/2023,TTFT
+2,500,84.9,TRUE,TRUE,1.05,9-12-13-23,
+3,250.1,84.9,TRUE,TRUE,1.1,9-12-15-16-23,
+4,100,84.9,TRUE,TRUE,1.25,9-12-15-18-19-23,
+5,99.9,84.9,TRUE,TRUE,1.5,9-12-15-18-21-23,
+6,250,84.9,TRUE,TRUE,1.25,missing BVs - distance,
+7,499.9,84.9,TRUE,TRUE,1.1,missing BVs - distance,
+8,1000,84.9,TRUE,TRUE,1.05,missing BVs - distance,TTTT
+9,0,84.9,TRUE,TRUE,1.5,Extreme range - distance,
+10,5000,84.9,TRUE,FALSE,1,Extreme range - distance,
+11,500,50,TRUE,TRUE,1.05,missing BVs - speed,
+12,500,49.9,TRUE,FALSE,1.05,missing BVs - speed,FTTT
+13,500,85,TRUE,FALSE,1.05,missing BVs - speed,TFTT
+14,500,0,TRUE,FALSE,1.05,Extreme range - speed,
+15,500,150,TRUE,FALSE,1.05,Extreme range - speed,
+16,500,84.9,FALSE,FALSE,1.05,missing BVs - cruiseEngaged,TTTF

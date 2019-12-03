@@ -1,0 +1,13 @@
+1,1,1,2019,365,Statement 8 TT and Statement 9 TFT
+2,1,2,2019,1,Statement 8 TF
+3,2,1,2019,31,Statement 8 FT and Statement 12 TFT
+4,1,1,2021,366,Statement 9 FFT
+5,1,1,2101,365,Statement 9 FTT
+6,1,1,2401,366,Statement 9 FTF
+7,1,2,2020,1,Statement 12 FFT
+8,1,2,2100,1,Statement 12 FTT
+9,2,1,2400,31,Statement 12 FTF
+10,1,2,2399,1,Missing BVs for Statement 9
+11,1,2,2099,1,Missing BVs for Statement 9
+12,1,1,2400,365,Missing BVs for Statement 12
+13,1,1,2100,365,Missing BVs for Statement 12`
